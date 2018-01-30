@@ -3,7 +3,7 @@
     "1": {
       "time": "9:00",
       "title": "check in",
-      "icon": "suitcase icon",
+      "icon": "fa fa-check-square-o",
       "orador": "",
       "empresa": ""
       },
@@ -38,7 +38,7 @@
     "6": {
       "time":"14:00",
       "title":"Será que tu te conheces?",
-      "icon":"university icon",
+      "icon":"fa fa-users",
       "orador":"Miguel Gonçalves",
       "empresa":""
     },
@@ -52,7 +52,7 @@
     "8": {
       "time":"15:40",
       "title":"mostra às empresas aquilo que vales",
-      "icon":"trophy icon",
+      "icon":"",
       "orador":"Filipe Portela",
       "empresa":""
     }
@@ -61,7 +61,7 @@
     "1": {
       "time":"9:30",
       "title":"Business Intelligence",
-      "icon":"fa fa-users",
+      "icon":"fa fa-line-chart",
       "orador":"",
       "empresa":"BI4ALL, GSTEP BI, IBM PORTUGAL, NATIXIS, APBI"
     },
@@ -75,7 +75,7 @@
     "2": {
       "time":"11:10",
       "title":"“Proteção dos dados pessoais – Casos de Estudo",
-      "icon":"settings icon",
+      "icon":"fa fa-database",
       "orador":"prof. henrique santos",
       "empresa":"Bial, Digital Sign, Delloite"
     },
@@ -89,7 +89,7 @@
     "4": {
       "time":"14:00",
       "title":"Plano doutoral",
-      "icon":"building icon",
+      "icon":"fa fa-graduation-cap",
       "orador":"prof. Isabel Ramos",
       "empresa":""
     },
@@ -103,7 +103,7 @@
     "6": {
       "time":"15:40",
       "title":"A entrevista de emprego ideal",
-      "icon":"idea icon",
+      "icon":"fa fa-suitcase",
       "orador":"",
       "empresa":"primavera, microsoft, sap, farfetch"
     },
