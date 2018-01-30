@@ -1,0 +1,142 @@
+{
+  "19": {
+    "1": {
+      "time": "9:00",
+      "title": "sessão de abertura",
+      "icon": "suitcase icon",
+      "orador": "docentes dsi",
+      "empresa": ""
+      },
+    "2": {
+      "time":"10:00",
+      "title":"sessão motivacional",
+      "icon":"idea icon",
+      "orador":"miguel gonçalves",
+      "empresa":"spark agency"
+    },
+    "3": {
+      "time":"11:30",
+      "title":"networking",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "4": {
+      "time":"12:30",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "5": {
+      "time":"14:00",
+      "title":"ecis 2017",
+      "icon":"university icon",
+      "orador":"dr. isabel ramos",
+      "empresa":""
+    },
+    "8": {
+      "time":"20:00",
+      "title":"concurso",
+      "icon":"trophy icon",
+      "orador":"",
+      "empresa":""
+    }
+  },
+  "20": {
+    "1": {
+      "time":"9:00",
+      "title":"",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "2": {
+      "time":"11:10",
+      "title":"indústria 4.0",
+      "icon":"settings icon",
+      "orador":"prof. francisco duarte",
+      "empresa":""
+    },
+    "3": {
+      "time":"13:00",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "4": {
+      "time":"14:00",
+      "title":"sessão de empresa",
+      "icon":"building icon",
+      "orador":"",
+      "empresa":"prime it, ceiia"
+    },
+    "5": {
+      "time":"16:15",
+      "title":"realidade virtual & aumentada",
+      "icon":"idea icon",
+      "orador":"",
+      "empresa":"ccg"
+    }
+  },
+  "21": {
+    "1" : {
+      "time":"9:30",
+      "title":"workshop python",
+      "icon":"",
+      "orador":"prof. rui mendes",
+      "empresa":"",
+      "note":"python"
+    },
+    "2": {
+      "time":"11:00",
+      "title":"networking",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "3": {
+      "time":"11:45",
+      "title":"sessão de empresa",
+      "icon":"building icon",
+      "orador":"",
+      "empresa":"primavera"
+    },
+    "4": {
+      "time":"13:00",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "5": {
+      "time":"14:00",
+      "title":"transformação digital",
+      "icon":"idea icon",
+      "orador":"",
+      "empresa":"primavera"
+    },
+    "6": {
+      "time":"16:15",
+      "title":"sessão informal",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "7": {
+      "time":"18:00",
+      "title":"surprise made in",
+      "icon":"help icon",
+      "orador":"?",
+      "empresa":"?"
+    },
+    "8": {
+      "time":"20:00",
+      "title":"tsi de gala",
+      "icon":"cocktail icon",
+      "orador":"",
+      "empresa":""
+    }
+  }
+}
