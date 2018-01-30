@@ -59,21 +59,28 @@
   },
   "20": {
     "1": {
-      "time":"9:00",
-      "title":"",
+      "time":"9:30",
+      "title":"Business Intelligence",
       "icon":"",
+      "orador":"",
+      "empresa":"BI4ALL, GSTEP BI, IBM PORTUGAL, NATIXIS, APBI"
+    },
+    "2": {
+      "time":"11:00",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
       "orador":"",
       "empresa":""
     },
     "2": {
       "time":"11:10",
-      "title":"indústria 4.0",
+      "title":"“Proteção dos dados pessoais – Casos de Estudo",
       "icon":"settings icon",
-      "orador":"prof. francisco duarte",
-      "empresa":""
+      "orador":"prof. henrique santos",
+      "empresa":"Bial, Digital Sign, Delloite"
     },
     "3": {
-      "time":"13:00",
+      "time":"12:30",
       "title":"almoço",
       "icon":"",
       "orador":"",
@@ -81,17 +88,31 @@
     },
     "4": {
       "time":"14:00",
-      "title":"sessão de empresa",
+      "title":"Plano doutoral",
       "icon":"building icon",
-      "orador":"",
-      "empresa":"prime it, ceiia"
+      "orador":"prof. Isabel Ramos",
+      "empresa":""
     },
     "5": {
-      "time":"16:15",
-      "title":"realidade virtual & aumentada",
+      "time":"15:30",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "6": {
+      "time":"15:40",
+      "title":"A entrevista de emprego ideal",
       "icon":"idea icon",
       "orador":"",
-      "empresa":"ccg"
+      "empresa":"primavera, microsoft, sap, farfetch"
+    },
+    "7": {
+      "time":"17:00",
+      "title":"torneio de fifa",
+      "icon":"trophy icon",
+      "orador":"",
+      "empresa":""
     }
   },
   "21": {
