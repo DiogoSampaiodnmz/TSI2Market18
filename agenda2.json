@@ -2,44 +2,58 @@
   "19": {
     "1": {
       "time": "9:00",
-      "title": "sessão de abertura",
+      "title": "check in",
       "icon": "suitcase icon",
-      "orador": "docentes dsi",
+      "orador": "",
       "empresa": ""
       },
     "2": {
-      "time":"10:00",
-      "title":"sessão motivacional",
-      "icon":"idea icon",
-      "orador":"miguel gonçalves",
-      "empresa":"spark agency"
+      "time":"9:30",
+      "title":"sessão abertura",
+      "icon":"suitcase icon",
+      "orador":"docentes dsi",
+      "empresa":""
     },
     "3": {
-      "time":"11:30",
-      "title":"networking",
+      "time":"10:20",
+      "title":"networking & Coffe Break",
       "icon":"users icon",
       "orador":"",
       "empresa":""
     },
     "4": {
+      "time":"10:30",
+      "title":"ultrapassa os teus limites",
+      "icon":"idea icon",
+      "orador":"Ricardo Frade",
+      "empresa":"LampCoach"
+    },
+    "5": {
       "time":"12:30",
       "title":"almoço",
       "icon":"",
       "orador":"",
       "empresa":""
     },
-    "5": {
+    "6": {
       "time":"14:00",
-      "title":"ecis 2017",
+      "title":"Será que tu te conheces?",
       "icon":"university icon",
-      "orador":"dr. isabel ramos",
+      "orador":"Miguel Gonçalves",
+      "empresa":""
+    },
+    "7": {
+      "time":"15:30",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
       "empresa":""
     },
     "8": {
-      "time":"20:00",
-      "title":"concurso",
+      "time":"15:40",
+      "title":"mostra às empresas aquilo que vales",
       "icon":"trophy icon",
-      "orador":"",
+      "orador":"Filipe Portela",
       "empresa":""
     }
   },
