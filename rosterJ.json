@@ -32,18 +32,21 @@
       "monta.jpg",
       "Davide Pontes",
       "Departamento Desportivo",
+      "",
       ""
     ],
     "miguel": [
       "bob.jpg",
       "Miguel Viera",
       "Departamento de Comunicação e Imagem",
+      "",
       ""
     ],
     "jose pinheiro": [
       "chucky.jpg",
       "José Pinheiro",
       "Vice Presidente",
+      "",
       ""
     ],
     "vanessa": [
@@ -71,12 +74,14 @@
       "guilherme.jpg",
       "Guilherme Francisco",
       "Departamento Pedagógico",
+      "",
       ""
     ],
     "andre Francisco": [
       "melo.jpg",
       "André Francisco",
       "Departamento Pedagógico",
+      "",
       ""
     ],
     "jose azevedo": [
@@ -111,49 +116,56 @@
       "sofia.jpg",
       "Sofia Melo",
       "Secretária",
+      "",
       ""
     ],
     "teresa": [
       "teresa.jpg",
       "Teresa Ferreira",
       "Departamento de Comunicação e Imagem",
+      "",
       ""
     ],
     "francisco": [
       "francisco.jpg",
       "Francisco Martins",
       "Mesa da Assembleia",
+      "",
       ""
     ],
     "afonso": [
       "afonso.jpg",
       "Afonso Salazar",
       "Mesa da Assembleia",
+      "",
       ""
     ],
     "mariaO": [
       "omega.jpg",
       "Maria Oliveira",
       "Mesa da Assembleia",
+      "",
       ""
     ],
     "nuno": [
       "kk.jpg",
       "Nuno Macedo",
       "Conselho Fiscal",
-      "kk",
+      "",
       "https://www.linkedin.com/in/nunomcd/"
     ],
     "luciana": [
       "curiosidade.jpg",
       "Luciana Abreu",
       "Conselho Fiscal",
+      "",
       ""
     ],
     "catarina": [
       "clow.jpg",
       "Catarina Borges",
       "Conselho Fiscal",
+      "",
       ""
     ]  
   }
