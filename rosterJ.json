@@ -50,14 +50,12 @@
       "diana.png",
       "Diana Ribeiro",
       "Departamento Cultural",
-      "",
       "https://www.linkedin.com/in/diana-ribeiro-2b4b64157/"
     ],
     "dias": [
       "dias.jpg",
       "Luis Dias",
       "Tesoureiro",
-      "",
       "https://www.linkedin.com/in/lu%C3%ADs-dias-a74658152/"
     ],
     "guilherme": [
@@ -127,11 +125,13 @@
     ],
     "luciana": [
       "curiosidade.jpg",
-      "Luciana Abreu"
+      "Luciana Abreu",
+      "Conselho Fiscal"
     ],
     "catarina": [
       "clow.jpg",
-      "Catarina Borges"
+      "Catarina Borges",
+      "Conselho Fiscal"
     ]  
   }
 }
