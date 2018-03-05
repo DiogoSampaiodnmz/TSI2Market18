@@ -1,0 +1,197 @@
+{
+  "19": {
+    "1": {
+      "time": "9:00",
+      "title": "check in",
+      "icon": "fa fa-check-square-o",
+      "orador": "",
+      "empresa": ""
+      },
+    "2": {
+      "time":"9:30",
+      "title":"sessão abertura",
+      "icon":"suitcase icon",
+      "orador":"docentes dsi",
+      "empresa":""
+    },
+    "3": {
+      "time":"10:20",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "4": {
+      "time":"10:30",
+      "title":"ultrapassa os teus limites",
+      "icon":"idea icon",
+      "orador":"Ricardo Frade",
+      "empresa":"LampCoach"
+    },
+    "5": {
+      "time":"12:30",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "6": {
+      "time":"14:00",
+      "title":"Será que tu te conheces?",
+      "icon":"fa fa-users",
+      "orador":"",
+      "empresa":""
+    },
+    "7": {
+      "time":"15:30",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "8": {
+      "time":"15:40",
+      "title":"mostra às empresas aquilo que vales",
+      "icon":"fa fa-building",
+      "orador":"Filipe Portela, João Pedro Silva, Filipe Sousa",
+      "empresa":"IOTECH, Digito Solutions, UPrise Talent"
+    }
+  },
+  "20": {
+    "1": {
+      "time":"9:30",
+      "title":"Business Intelligence",
+      "icon":"fa fa-line-chart",
+      "orador":"Eduardo Sousa, David Ferreira, Duarte Caldas",
+      "empresa":"BI4ALL, Primavera BSS, IBM PORTUGAL, IBM"
+    },
+    "2": {
+      "time":"11:00",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "2": {
+      "time":"11:10",
+      "title":"“Proteção dos dados pessoais – Casos de Estudo(GDPR)",
+      "icon":"fa fa-database",
+      "orador":"Fábio Rego, Fernado Amorim, Patrícia Alves, Pedro Martins",
+      "empresa":"Digital Sign, Consulgés, DATTA, WALKPROCESS"
+    },
+    "3": {
+      "time":"12:30",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "4": {
+      "time":"14:00",
+      "title":"Investigação em TSI: a experiência dos alunos do PDTSI",
+      "icon":"fa fa-graduation-cap",
+      "orador":"Carlos Costa, Irving Reascos, Fábio Moura, Ana Lima",
+      "empresa":""
+    },
+    "5": {
+      "time":"15:30",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "6": {
+      "time":"15:40",
+      "title":"A entrevista de emprego ideal",
+      "icon":"fa fa-suitcase",
+      "orador":"",
+      "empresa":""
+    },
+    "7": {
+      "time":"17:00",
+      "title":"Women in Engeneering",
+      "icon":"fa fa-suitcase",
+      "orador":"",
+      "empresa":""
+    },
+    "8": {
+      "time":"17:00",
+      "title":"torneio de fifa",
+      "icon":"trophy icon",
+      "orador":"",
+      "empresa":""
+    }
+  },
+  "21": {
+    "1" : {
+      "time":"9:30",
+      "title":"Indústria 4.0",
+      "icon":"",
+      "orador":"Hugo Portela, Ricardo Melro",
+      "empresa":"Accenture, Bosch, Altran",
+    },
+    "2": {
+      "time":"11:00",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "3": {
+      "time":"11:10",
+      "title":"Open insurance - Transformação Digital",
+      "icon":"building icon",
+      "orador":"White Paper, Leandro Fernandes, Fernando Amorim, ",
+      "empresa":"Lluni Software, Consulgés"
+    },
+    "4": {
+      "time":"13:00",
+      "title":"almoço",
+      "icon":"",
+      "orador":"",
+      "empresa":""
+    },
+    "5": {
+      "time":"14:00",
+      "title":"Workshop - Cúrriculo e Email",
+      "icon":"idea icon",
+      "orador":"",
+      "empresa":""
+    },
+    "6": {
+      "time":"15:00",
+      "title":"Blockchain",
+      "icon":"users icon",
+      "orador":"Miguel Calejo, Gonçalo Sá, Lara Fonseca",
+      "empresa":"Logical Contracts, Consensvs, Load"
+    },
+    "7": {
+      "time":"16:30",
+      "title":"networking & Coffe Break",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "8": {
+      "time":"16:40",
+      "title":"Sessão EDP",
+      "icon":"help icon",
+      "orador":"",
+      "empresa":""
+    },
+    "9": {
+      "time":"17:00",
+      "title":"Sessão Encerramento",
+      "icon":"users icon",
+      "orador":"",
+      "empresa":""
+    },
+    "10": {
+      "time":"20:30",
+      "title":"tsi de gala",
+      "icon":"cocktail icon",
+      "orador":"",
+      "empresa":""
+    }
+  }
+}
