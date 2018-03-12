@@ -1,0 +1,96 @@
+{
+  "empresas": {
+    "primavera": {
+      "img": "empresas/primavera",
+      "href":"http://www.primaverabss.com/"
+    },
+    "retail consult": {
+      "img": "empresas/retail.png",
+      "href": "http://www.retail-consult.com/"
+    },
+    "primeit": {
+      "img": "empresas/primeit.jpg",
+      "href":"http://www.primeit.pt/"
+    },
+    "bosch": {
+      "img": "empresas/bosch.png",
+      "href":"https://www.bosch-career.pt/"
+    },
+    "primavera": {
+      "img": "empresas/primavera.png",
+      "href":"http://www.primaverabss.com/"
+    },
+    "lamp coach": {
+      "img": "empresas/lamp.png",
+      "href":"https://lampcoach.com/"
+    },
+    "weDO": {
+      "img": "empresas/wedo.gif",
+      "href":"http://ww1.wedotechnologies.com/en/"
+    },
+    "ibm": {
+      "img": "empresas/ibm.png",
+      "href":"https://www.ibm.com/pt-pt/"
+    },
+    "iotech": {
+      "img": "empresas/iotech.png",
+      "href":"https://iotech.pt/"
+    },
+    "bi4all": {
+      "img": "empresas/bi4all.png",
+      "href": "http://www.bi4all.pt/"
+    },
+    "altran": {
+      "img": "empresas/altran.png",
+      "href": "https://www.altran.com/us/en/"
+    },
+    "digito solutions": {
+      "img": "empresas/digito.png",
+      "href": "http://digitosolutions.com/"
+    },
+    "epic": {
+      "img":"empresas/epic.png",
+      "href":"https://www.facebook.com/EPICjunior.uminho/"
+    },
+    "accenture": {
+      "img":"empresas/accenture.png",
+      "href":"https://www.accenture.com/pt-pt"
+    },
+    "consensys": {
+      "img":"empresas/Consensys.png",
+      "href":"https://new.consensys.net/"
+    },
+    "consulges": {
+      "img":"empresas/consulges.png",
+      "href":"http://www.consulges.pt/"
+    },
+    "datta": {
+      "img":"empresas/datta.jpg",
+      "href":"https://www.datta.pt/"
+    },
+    "dst": {
+      "img":"empresas/dst.png",
+      "href":"https://www.dstsgps.com/intro-pt-pt/#/#intro"
+    },
+    "lluni": {
+      "img":"empresas/lluni.jpg",
+      "href":"http://www.lluni.com/pt/produto/gest%C3%A3o-de-seguros"
+    },
+    "load": {
+      "img":"empresas/load.png",
+      "href":"http://www.load-interactive.com/"
+    },
+    "uprise": {
+      "img":"",
+      "href":"https://www.uprisetalent.com/"
+    },
+    "logical contracts": {
+      "img":"empresas/logical.png",
+      "href":"http://logicalcontracts.com/"
+    },
+    "wintouch": {
+      "img":"empresas/wintouch.jpg",
+      "href":"http://cms.wintouch.pt/"
+    }
+  }
+}
