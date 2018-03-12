@@ -87,6 +87,10 @@
     "logical contracts": {
       "img":"empresas/logical.png",
       "href":"http://logicalcontracts.com/"
+    },
+    "wintouch": {
+      "img":"empresas/wintouch.jpg",
+      "href":"http://cms.wintouch.pt/"
     }
   }
 }
