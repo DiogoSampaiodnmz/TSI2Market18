@@ -95,6 +95,10 @@
     "digital sign": {
       "img":"empresas/digital.png",
       "href":"https://digitalsign.pt/pt"
+    },
+    "": {
+      "img":"",
+      "href":""
     }
   }
 }
