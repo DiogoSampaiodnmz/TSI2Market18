@@ -20,9 +20,9 @@
       "img": "empresas/primavera.png",
       "href":"http://www.primaverabss.com/"
     },
-    "lamp coach": {
-      "img": "empresas/lamp.png",
-      "href":"https://lampcoach.com/"
+    "digital sign": {
+      "img":"empresas/digital.png",
+      "href":"https://digitalsign.pt/pt"
     },
     "weDO": {
       "img": "empresas/wedo.gif",
@@ -92,9 +92,9 @@
       "img":"empresas/logical.png",
       "href":"http://logicalcontracts.com/"
     },
-    "digital sign": {
-      "img":"empresas/digital.png",
-      "href":"https://digitalsign.pt/pt"
+    "lamp coach": {
+      "img": "empresas/lamp.png",
+      "href":"https://lampcoach.com/"
     },
     "": {
       "img":"",
