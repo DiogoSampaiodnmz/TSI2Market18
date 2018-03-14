@@ -80,7 +80,10 @@
       "img":"empresas/load.png",
       "href":"http://www.load-interactive.com/"
     },
-    
+    "consulges": {
+      "img":"empresas/consulges.png",
+      "href":"http://www.consulges.pt/"
+    },
     "wintouch": {
       "img":"empresas/wintouch.jpg",
       "href":"http://cms.wintouch.pt/"
@@ -92,10 +95,6 @@
     "lamp coach": {
       "img": "empresas/lamp.png",
       "href":"https://lampcoach.com/"
-    },
-    "consulges": {
-      "img":"empresas/consulges.png",
-      "href":"http://www.consulges.pt/"
     },
     "": {
       "img":"empresas/dipcode.png",
