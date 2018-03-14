@@ -96,9 +96,21 @@
       "img": "empresas/lamp.png",
       "href":"https://lampcoach.com/"
     },
-    "": {
+    "dipcode": {
       "img":"empresas/dipcode.png",
       "href":"https://dipcode.com/"
+    },
+    "akapeople": {
+      "img":"empresas/aka.png",
+      "href":"https://akapeople.pt//"
+    },
+    "": {
+      "",
+      ""
+    },
+    "": {
+      "",
+      ""
     }
   }
 }
