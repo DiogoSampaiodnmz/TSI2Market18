@@ -60,9 +60,9 @@
       "img":"empresas/Consensys.png",
       "href":"https://new.consensys.net/"
     },
-    "consulges": {
-      "img":"empresas/consulges.png",
-      "href":"http://www.consulges.pt/"
+    "uprise": {
+      "img":"empresas/uprise.png",
+      "href":"https://www.uprisetalent.com/"
     },
     "datta": {
       "img":"empresas/datta.jpg",
@@ -80,10 +80,7 @@
       "img":"empresas/load.png",
       "href":"http://www.load-interactive.com/"
     },
-    "uprise": {
-      "img":"empresas/uprise.png",
-      "href":"https://www.uprisetalent.com/"
-    },
+    
     "wintouch": {
       "img":"empresas/wintouch.jpg",
       "href":"http://cms.wintouch.pt/"
@@ -95,6 +92,10 @@
     "lamp coach": {
       "img": "empresas/lamp.png",
       "href":"https://lampcoach.com/"
+    },
+    "consulges": {
+      "img":"empresas/consulges.png",
+      "href":"http://www.consulges.pt/"
     },
     "": {
       "img":"empresas/dipcode.png",
