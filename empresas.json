@@ -103,6 +103,14 @@
     "digito solutions": {
       "img": "empresas/digito.png",
       "href": "http://digitosolutions.com/"
+    },
+    "walkprocess": {
+      "img": "empresas/walk.png",
+      "href": "https://www.walkprocess.com/"
+    },
+    "": {
+      "img": "",
+      "href": ""
     }
   }
 }
