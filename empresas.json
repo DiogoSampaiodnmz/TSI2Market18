@@ -112,13 +112,13 @@
       "img": "empresas/natixis.png",
       "href": "https://www.natixis.com/natixis/jcms/j_6/fr/accueil"
     },
-    "gtmbsolutions": {
-      "img": "empresas/tmb.jpg",
-      "href": "http://www.gtmbsolutions.com/"
-    },
     "": {
       "img": "",
       "href": ""
+    },
+     "gtmbsolutions": {
+      "img": "empresas/tmb.jpg",
+      "href": "http://www.gtmbsolutions.com/"
     }
   }
 }
