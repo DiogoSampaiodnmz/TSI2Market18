@@ -116,7 +116,11 @@
       "img": "empresas/tmb.jpg",
       "href": "http://www.gtmbsolutions.com/"
     },
-     "": {
+     "ccg": {
+      "img": "empresas/ccg.png",
+      "href": "http://www.ccg.pt"
+    },
+    "": {
       "img": "",
       "href": ""
     }
