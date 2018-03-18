@@ -52,9 +52,9 @@
       "img":"empresas/accenture.png",
       "href":"https://www.accenture.com/pt-pt"
     },
-    "epic": {
-      "img":"empresas/epic.png",
-      "href":"https://www.facebook.com/EPICjunior.uminho/"
+    "ccg": {
+      "img": "empresas/ccg.png",
+      "href": "http://www.ccg.pt"
     },
     "consensys": {
       "img":"empresas/Consensys.png",
@@ -116,10 +116,10 @@
       "img": "empresas/tmb.jpg",
       "href": "http://www.gtmbsolutions.com/"
     },
-     "ccg": {
-      "img": "empresas/ccg.png",
-      "href": "http://www.ccg.pt"
-    },
+    "epic": {
+      "img":"empresas/epic.png",
+      "href":"https://www.facebook.com/EPICjunior.uminho/"
+    },  
     "": {
       "img": "",
       "href": ""
